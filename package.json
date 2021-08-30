@@ -1,0 +1,27 @@
+{
+  "name": "cypress-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettshollenberger/cypress-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettshollenberger/cypress-crawler/issues"
+  },
+  "homepage": "https://github.com/brettshollenberger/cypress-crawler#readme",
+  "devDependencies": {
+    "cypress": "^7.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  }
+}
